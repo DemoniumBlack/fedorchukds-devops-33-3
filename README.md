@@ -108,17 +108,17 @@ origin-https	https://github.com/andrey-borue/devops-netology.git (push)
 
 6. Проверяю вывод команды git remote -v:
 
-![img.png](img.png)
+![img.png](IMG/img_9.png)
 
 7. Добавляю репозиторий GitLab, как дополнительный remote, к созданному репозиторию в рамках предыдущего домашнего задания:
 
-![img_1.png](img_1.png)
+![img_1.png](IMG/img_1.png)
 
 8. Отправляю изменения в новый удалённый репозиторий.
 
 9. Проверяю изменения в выводе команды git remote -v:
 
-![img_2.png](img_2.png)
+![img_2.png](IMG/img_2.png)
 
 Видно, что добавился репозиторий gitlab.
 
@@ -137,29 +137,29 @@ origin-https	https://github.com/andrey-borue/devops-netology.git (push)
 
 4. Добавил этот удаленный репозиторий:
 
-![img_3.png](img_3.png)
+![img_3.png](IMG/img_3.png)
 
 5. Проверяю вывод команды git remote -v, вижу что репозиторий bitbucket добавился:
 
-![img_4.png](img_4.png)
+![img_4.png](IMG/img_4.png)
 
 Добавляю все репозитории как по HTTPS, так и по SSH. Проверяю вывод команды git remote -v и вижу, что репозитории добавлены:
 
-![img_5.png](img_5.png)
+![img_5.png](IMG/img_5.png)
 
 Выполняю push во все репозитории, визуально сравниваю их, коммиты совпадают:
 
 *GitLab:
 
-![img_6.png](img_6.png)
+![img_6.png](IMG/img_6.png)
 
 *GitHub:
 
-![img_7.png](img_7.png)
+![img_7.png](IMG/img_7.png)
 
 *Bitbucket:
 
-![img_8.png](img_8.png)
+![img_8.png](IMG/img_8.png)
 
 ## Задание 2. Теги
 

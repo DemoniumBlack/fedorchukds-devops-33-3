@@ -135,7 +135,7 @@ origin-https	https://github.com/andrey-borue/devops-netology.git (push)
 
 3. Создал публичный проект netology и репозиторий devops-netology: https://bitbucket.org/fedorchukds/devops-netology/src/master/
 
-4. Добавил этот удаленный репозиторий:
+4. Добавил удаленный репозиторий:
 
 ![img_3.png](IMG/img_3.png)
 

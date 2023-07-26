@@ -323,3 +323,9 @@ git log --oneline показывает, что я сейчас нахожусь 
 Видно, что пуш выполнен:
 
 ![img_21.png](IMG/img_21.png)
+
+Ссылки на мои репозитории:
+
+* GitLab - https://gitlab.com/DemoniumBlack/devops-netology
+* GitHub - https://github.com/DemoniumBlack/devops-netology
+* Bitbucket - https://bitbucket.org/fedorchukds/devops-netology/src/main/

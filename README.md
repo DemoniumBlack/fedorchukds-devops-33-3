@@ -268,7 +268,7 @@ Git хэш это хэш сумма, определяющая коммит в gi
 
 ![img_9.png](IMG/img_32.png)
 
-6. Посмотрел, как визуально выглядит схема коммитов репозитория по ссылке https://github.com/DemoniumBlack/devops-netology/tree/main
+6. Посмотрел, как визуально выглядит схема коммитов репозитория по ссылке https://github.com/DemoniumBlack/devops-netology/network
 
 ![img_10.png](IMG/img_33.png)
 

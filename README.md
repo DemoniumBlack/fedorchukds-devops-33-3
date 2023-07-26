@@ -177,44 +177,44 @@ origin-https	https://github.com/andrey-borue/devops-netology.git (push)
 
 1. Создал легковесный тег 0.0 на HEAD-коммите командой git tag v0.0. Проверяю результат:
 
-![img.png](img.png)
+![img.png](IMG/img_11.png)
 
 Видно, что у коммита с хэшем bc1509b и меткой HEAD (указатель последнего коммита в текущей ветке) есть тег v0.0.
 
-![img_1.png](img_1.png)
+![img_1.png](IMG/img_12.png)
 
 2. Внес изменения в файл README.md, закоммитил и запушил в репозиторий. Добавился новый хэш. Для него создал аннотированный тег v0.1.
 
 Проверю коммиты:
 
-![img_2.png](img_2.png)
+![img_2.png](IMG/img_13.png)
 
 Видно, что для HEAD коммита добавился тег v0.1.
 
 Смотрю содержимое самого тега командой git show v0.1:
 
-![img_3.png](img_3.png)
+![img_3.png](IMG/img_14.png)
 
 Аннотированный тег, в отличии от обычного, содержит в себе больше описания. Например, видно кто тег создал, дату и время создания, комментарий к тегу и изменения, которые произошли в коммите.
 
 3. Пушу теги в удаленные репозитории:
 
-![img_4.png](img_4.png)
+![img_4.png](IMG/img_15.png)
 
-![img_10.png](img_10.png)
+![img_10.png](IMG/img_10.png)
 
-![img_6.png](img_6.png)
+![img_6.png](IMG/img_17.png)
 
 Смотрю теги в web интерфейсах удаленных репозиториев:
 
-*Bitbucket:
+* Bitbucket:
 
-![img_7.png](img_7.png)
+![img_7.png](IMG/img_18.png)
 
-*GitLab:
+* GitLab:
 
-![img_8.png](img_8.png)
+![img_8.png](IMG/img_19.png)
 
-*GitHub:
+* GitHub:
 
-![img_9.png](img_9.png)
+![img_9.png](IMG/img_20.png)
